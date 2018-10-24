@@ -1,0 +1,38 @@
+Changes from 4.0.2 to 4.0.3
+
+*Kernel:
+- Implemented enhancement #14388: In ezldapuser.php, Mysql Improved database implementation not effective
+  (Merged from trunk (4.1.0beta1) rev. 22945)
+
+*Design:
+
+*eZTemplate:
+
+*Package system:
+
+*Scripts:
+
+*Translations:
+
+*Bugfixes:
+- Fixed bug #14382: PHP Warning on / after clearing all caches
+  (Merged from trunk (4.1.0beta1) rev. 22919)
+- Fixed bug #11987: Incompatible with PHP setting variables_order = "GPCS"
+  (Merged from trunk (4.1.0beta1) rev. 22926)
+- Fixed bug #12450: Undefined variable: def in kernel/classes/ezworkflowtype.php on line 90
+  (Merged from trunk (4.1.0beta1) rev. 22928)
+- Fixed bug #14358: runcronjobs does not remove its mutex files
+  (Merged from trunk (4.1.0beta1) rev. 22938)
+- Fixed bug #14409: Wrong URL in RSS feed when URLTranslator is disabled
+  (Merged from trunk (4.1.0beta1) rev. 22948)
+- Fixed bug #13661: ezconvertdbcharset.php implicitly requires UseBuiltinEncoding=false
+  (Merged from trunk (4.1.0beta1) rev. 22960)
+- Fixed bug #13674: ezconvertdbcharset.php doesn't convert all datatypes correctly + some other problems
+  (Merged from trunk (4.1.0beta1) rev. 22963)
+- Fixed bug #13346: Warnings with NodeTreeCaching=enabled
+  (Merged from trunk (4.1.0beta1) rev. 22976)
+- Fixed bug #11756: fatal error in bin\php\ezconvertmysqltabletype.php
+  (Merged from trunk (4.1.0beta1) rev. 22982)
+- Fixed bug #14458: Viewcache cachehash does not include siteaccess type (uri/host..)
+  (Merged from trunk (4.1.0beta1) rev. 22982)
+- Fixed bug #14452: eZDBFileHandlerMysqlBackend::_rename is broken in 4.0.2

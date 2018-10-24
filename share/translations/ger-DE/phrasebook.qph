@@ -1,0 +1,343 @@
+<!DOCTYPE QPH><QPH>
+<phrase>
+    <source>add</source>
+    <target>hinzufügen</target>
+</phrase>
+<phrase>
+    <source>advanced</source>
+    <target>Fortgeschritten</target>
+</phrase>
+<phrase>
+    <source>bookmark</source>
+    <target>Lesezeichen</target>
+</phrase>
+<phrase>
+    <source>Browse</source>
+    <target>Durchsuchen</target>
+</phrase>
+<phrase>
+    <source>Button</source>
+    <target>Knopf</target>
+</phrase>
+<phrase>
+    <source>Buttons</source>
+    <target>Knöpfe</target>
+</phrase>
+<phrase>
+    <source>cache</source>
+    <target>Cache</target>
+</phrase>
+<phrase>
+    <source>Checkbox</source>
+    <target>Ankreuz-Kästchen</target>
+</phrase>
+<phrase>
+    <source>Checkboxes</source>
+    <target>Ankreuz-Kästchen</target>
+</phrase>
+<phrase>
+    <source>child</source>
+    <target>untergeordnet</target>
+    <definition>Im Sinne von &amp;quot;child node&amp;quot; oder so</definition>
+</phrase>
+<phrase>
+    <source>Choose</source>
+    <target>Wählen</target>
+    <definition>Button-Beschriftung</definition>
+</phrase>
+<phrase>
+    <source>Choose</source>
+    <target>Wähle</target>
+</phrase>
+<phrase>
+    <source>class definition</source>
+    <target>Klassendefinition</target>
+</phrase>
+<phrase>
+    <source>class group</source>
+    <target>Klassengruppe</target>
+</phrase>
+<phrase>
+    <source>Class</source>
+    <target>Klasse</target>
+</phrase>
+<phrase>
+    <source>collaboration</source>
+    <target>Zusammenarbeit</target>
+</phrase>
+<phrase>
+    <source>Collapse</source>
+    <target>Zuklappen</target>
+</phrase>
+<phrase>
+    <source>complete</source>
+    <target>komplett</target>
+</phrase>
+<phrase>
+    <source>content object class</source>
+    <target>Content-Objektklasse</target>
+</phrase>
+<phrase>
+    <source>content object</source>
+    <target>Content Objekt</target>
+</phrase>
+<phrase>
+    <source>content</source>
+    <target>Inhalt</target>
+</phrase>
+<phrase>
+    <source>create</source>
+    <target>erstellen</target>
+</phrase>
+<phrase>
+    <source>debug</source>
+    <target>Debug</target>
+    <definition>Sieht ein User hoffentlich nie, daher würde ich das nicht übersetzen.</definition>
+</phrase>
+<phrase>
+    <source>delete</source>
+    <target>löschen</target>
+</phrase>
+<phrase>
+    <source>draft</source>
+    <target>Entwurf</target>
+</phrase>
+<phrase>
+    <source>edit</source>
+    <target>bearbeite</target>
+</phrase>
+<phrase>
+    <source>edit</source>
+    <target>bearbeiten</target>
+</phrase>
+<phrase>
+    <source>Expand</source>
+    <target>Aufklappen</target>
+</phrase>
+<phrase>
+    <source>Extension</source>
+    <target>Erweiterung</target>
+</phrase>
+<phrase>
+    <source>File</source>
+    <target>Datei</target>
+</phrase>
+<phrase>
+    <source>identifier</source>
+    <target>Bezeichner</target>
+</phrase>
+<phrase>
+    <source>identifiers</source>
+    <target>Bezeichner</target>
+</phrase>
+<phrase>
+    <source>Image</source>
+    <target>Bild</target>
+</phrase>
+<phrase>
+    <source>item</source>
+    <target>Eintrag</target>
+</phrase>
+<phrase>
+    <source>items</source>
+    <target>Einträge</target>
+</phrase>
+<phrase>
+    <source>limitation</source>
+    <target>Einschränkung</target>
+</phrase>
+<phrase>
+    <source>limitations</source>
+    <target>Einschränkungen</target>
+</phrase>
+<phrase>
+    <source>location</source>
+    <target>Ort</target>
+</phrase>
+<phrase>
+    <source>locations</source>
+    <target>Orte</target>
+</phrase>
+<phrase>
+    <source>log in</source>
+    <target>anmelden</target>
+</phrase>
+<phrase>
+    <source>Media</source>
+    <target>Medien</target>
+</phrase>
+<phrase>
+    <source>modified</source>
+    <target>geändert</target>
+</phrase>
+<phrase>
+    <source>Next</source>
+    <target>nächster</target>
+</phrase>
+<phrase>
+    <source>Node</source>
+    <target>Knoten</target>
+    <definition>Ort, an ein Objekt veröffentlicht wird</definition>
+</phrase>
+<phrase>
+    <source>object relation</source>
+    <target>Objektverwandtschaft</target>
+</phrase>
+<phrase>
+    <source>object</source>
+    <target>Objekt</target>
+</phrase>
+<phrase>
+    <source>Object</source>
+    <target>Objekt</target>
+</phrase>
+<phrase>
+    <source>objects</source>
+    <target>Objekte</target>
+</phrase>
+<phrase>
+    <source>parent</source>
+    <target>übergeordnet</target>
+    <definition>Im Sinne von &amp;quot;parent node&amp;quot; oder so</definition>
+</phrase>
+<phrase>
+    <source>permission</source>
+    <target>Berechtigung</target>
+</phrase>
+<phrase>
+    <source>permissions</source>
+    <target>Berechtigungen</target>
+</phrase>
+<phrase>
+    <source>policy</source>
+    <target>Richtlinie</target>
+</phrase>
+<phrase>
+    <source>Previous</source>
+    <target>vorheriger</target>
+</phrase>
+<phrase>
+    <source>product sheet</source>
+    <target>Produktbeschreibung</target>
+</phrase>
+<phrase>
+    <source>product</source>
+    <target>Produkt</target>
+</phrase>
+<phrase>
+    <source>Publish date </source>
+    <target>Veröffentlichungsdatum</target>
+</phrase>
+<phrase>
+    <source>publish</source>
+    <target>veröffentlichen</target>
+</phrase>
+<phrase>
+    <source>radio buttons</source>
+    <target>Auswahl-Knöpfe</target>
+</phrase>
+<phrase>
+    <source>register</source>
+    <target>registrieren</target>
+</phrase>
+<phrase>
+    <source>related</source>
+    <target>verwandte</target>
+</phrase>
+<phrase>
+    <source>relation</source>
+    <target>Verwandtschaft</target>
+</phrase>
+<phrase>
+    <source>remove</source>
+    <target>entferne</target>
+</phrase>
+<phrase>
+    <source>remove</source>
+    <target>entfernen</target>
+</phrase>
+<phrase>
+    <source>role</source>
+    <target>Rolle</target>
+</phrase>
+<phrase>
+    <source>Section</source>
+    <target>Sektion</target>
+    <definition>Sektionen dienen u.a. zur Vergabe von Zugriffsrechten</definition>
+</phrase>
+<phrase>
+    <source>Selection</source>
+    <target>Auswahl</target>
+</phrase>
+<phrase>
+    <source>select</source>
+    <target>auswählen</target>
+</phrase>
+<phrase>
+    <source>Session</source>
+    <target>Session</target>
+</phrase>
+<phrase>
+    <source>Settings</source>
+    <target>Einstellungen</target>
+</phrase>
+<phrase>
+    <source>site administrator</source>
+    <target>Administrator</target>
+</phrase>
+<phrase>
+    <source>special characters</source>
+    <target>Sonderzeichen</target>
+</phrase>
+<phrase>
+    <source>template</source>
+    <target>Template</target>
+    <definition>Sieht ein User nie, daher würde ich das nicht übersetzen. &amp;quot;Vorlage&amp;quot;?</definition>
+</phrase>
+<phrase>
+    <source>Toolbar</source>
+    <target>Werkzeug-Leiste</target>
+</phrase>
+<phrase>
+    <source>Tool</source>
+    <target>Werkzeug</target>
+</phrase>
+<phrase>
+    <source>trash</source>
+    <target>Papierkorb</target>
+</phrase>
+<phrase>
+    <source>tree</source>
+    <target>Baum</target>
+    <definition>Im Sinne von &amp;quot;Baumstruktur des Inhalts&amp;quot;</definition>
+</phrase>
+<phrase>
+    <source>Try changing the URL.</source>
+    <target>Bitte überprüfen Sie die URL.</target>
+</phrase>
+<phrase>
+    <source>undif</source>
+    <target>einblenden</target>
+</phrase>
+<phrase>
+    <source>unhide</source>
+    <target>zeigen</target>
+    <definition>(Gegenteil von &amp;quot;Hide&amp;quot;)</definition>
+</phrase>
+<phrase>
+    <source>Visibility</source>
+    <target>Sichtbarkeit</target>
+</phrase>
+<phrase>
+    <source>whitespace</source>
+    <target>Leerzeichen</target>
+</phrase>
+<phrase>
+    <source>whitespace</source>
+    <target>Leerzeichen</target>
+</phrase>
+<phrase>
+    <source>workflow</source>
+    <target>Workflow</target>
+</phrase>
+</QPH>

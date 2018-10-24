@@ -1,0 +1,10 @@
+<?php
+// This array contains the database data
+$data = array (
+  '_info' => 
+  array (
+    'format' => 'generic',
+  ),
+);
+
+?>

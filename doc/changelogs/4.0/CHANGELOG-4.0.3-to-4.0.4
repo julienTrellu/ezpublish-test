@@ -1,0 +1,109 @@
+Changes from 4.0.3 to 4.0.4
+
+*Kernel:
+- Implemented enhancement #12880: fetch related object - don't use ignore visiblity
+  (Merged from trunk (4.1.0beta1) rev. 23012)
+- Implemented enhancement #11675: ezcontentobject - mysql query optimization
+  (Merged from trunk (4.1.0beta1) rev. 23018)
+- Implemented enhancement #14324: Missing mimetype for 3gp files (and a few more, OOXML, mp4)
+- Implemented enhancement #14809: Protecting tilde from being urlencoded on redirects.
+  (Merged from trunk (4.2.0alpha1) rev. 23453)
+
+*Design:
+
+*eZTemplate:
+
+*Package system:
+
+*Scripts:
+
+*Translations:
+
+*Bugfixes:
+- Fixed bug #14465: Swap node does not fix main node assignement
+  (Merged from trunk (4.1.0beta1) rev. 22998)
+- Fixed bug #14499: Remove leftover debug-code in eZContentObject->setName()
+  (Merged from trunk (4.1.0beta1) rev. 23009)
+- Fixed bug #12801: shop/basket.php: Variable $item is used multiple times.
+  (Merged from trunk (4.1.0beta1) rev. 23016)
+- Fixed bug #13681: Database update query 4.0.0 > 4.0.1
+- Fixed bug #11499: Template override conditions :: node/view/*.tpl :: parent_class_identifier condition is not always verified
+  (Merged from trunk (4.1.0beta1) rev. 23036)
+- Fixed bug #12856: Usage of wrong variables in eZSOAPResponse
+  (Merged from trunk (4.1.0beta1) rev. 22980)
+- Fixed bug #11996: ezsoapclient.php does not use server port in http request
+  (Merged from trunk (4.1.0beta1) rev. 22981)
+- Fixed bug #8830: Segmentation fault when site.ini newer than current system time
+  (Merged from trunk (4.1.0rc1) rev. 23131)
+- Fixed bug #14555: initurlaliasmlid.php upgrade script is not oracle-compatible
+  (Merged from trunk (4.1.0rc1) rev. 23135)
+- Fixed bug #14164: nor-NO translation bug "brukernavnet er allerede i brukt"
+  (Merged from trunk (4.1.0rc1) rev. 23152)
+- Fixed bug #14328: Nested embedding override issue
+  (Merged from trunk (4.1.0rc1) rev. 23159)
+- Fixed bug #14583: Strict: PHP
+  (Merged from trunk (4.1.0rc1) rev. 23166)
+- Fixed bug #14600: object name is shown with unknown number, when the object name is a number, and starts with zeros
+  (Merged from trunk (4.1.0rc1) rev. 23169)
+- Fixed bug #14577: Problem with generated object naming on Oracle
+  (Merged from trunk (4.1.0rc1) rev. 23183)
+- Fixed bug #14139: invalid sql generated for policies assigned with limitation in roles assigned with limitation
+  (Merged from trunk (4.1.0rc1) rev. 23203)
+- Fixed bug #14033: has_content of an eZInteger attribute is always true
+  (Merged from trunk (4.2.0Alpha1) rev. 23282)
+- Fixed bug #14663 has_content of an eZFloat attribute is always true
+  (Merged from trunk (4.2.0Alpha1) rev. 23285)
+- Fixed bug #14643: eZFSFileHandler: wrong var in debug output
+  (Merged from trunk (4.2.0alpha1) rev. 23292)
+- Fixed bug #14345: Wrong character set destroy xml in eZ Image AliasHandler.
+  (Merged from stable/4.1 (4.1.1alpha1) rev. 23296)
+- Fixed bug #12284: open_basedir warning not displayed when no other system checks fail
+  (Merged from trunk (4.2.0alpha1) rev. 23310)
+- Fixed bug #13162: Open_basedir warnings
+  (Merged from trunk (4.2.0alpha1) rev. 23327)
+- Fixed bug #14642: eZContentObject::fetchByNodeID is producing fatal errors
+  (Merged from trunk (4.2.0alpha1) rev. 23348)
+- Fixed bug #14392: fatal error in ezcontentmanager.php
+  (Merged from trunk (4.2.0alpha1) rev. 23353)
+- Fixed bug #14632: warnings at deleting a content object
+  (Merged from trunk (4.2.0alpha1) rev. 23358, 23362)
+- Fixed bug #08123: Query error on ezworkflow_event with multiplexer and a selection of many classes
+  (Merged from trunk (4.2.0alpha1) rev. 23371)
+- Fixed bug #14766: Installer thinks postgres is installed but it's not.
+  (Merged from trunk (4.2.0alpha1 rev. 23390)
+- Fixed bug #14635: For a discount with decimal component shop/basket cuts off the decimal
+  (Merged from trunk (4.2.0alpha1) rev. 23394)
+- Fixed bug #11055: $object.name and $node.name not translated
+  (Merged from trunk (4.2.0alpha1) rev. 23397)
+- Fixed bug #14656: Access Denied Error when view not found
+  (Merged from trunk (4.2.0alpha1) rev. 23405)
+- Fixed bug #14787: Url alias errors when changing translation currently shared with other translations.
+  (Merged from trunk (4.2.0alpha1) rev. 23419)
+- Fixed bug #12833: /user/success redirects to /user/register
+  (Merged from trunk (4.2.0alpha1) rev. 23426)
+- Fixed bug #14796: System Locale shaking the admin interface
+  (Merged from trunk (4.2.0alpha1) rev. 23429)
+- Fixed bug #10944: preview cache - fatal error
+  (Merged from trunk (4.2.0alpha1) rev. 23434)
+- Fixed bug #14703: wrong usage of productOptionInformation
+  (Merged from trunk (4.2.0alpha1) rev. 23437)
+- Fixed bug #14520: eZPreferences - inconsistencies between database- and session-stored escaped values during initial session
+  (Merged from trunk (4.2.0alpha1) rev. 23443)
+- Fixed bug #14802: Problem with url alias entries when shifting a combined entry to a previously used name.
+  (Merged from trunk (4.2.0alpha1) rev. 23446)
+- Fixed bug #14343: Transaction error in eZURLAliasML::setLangMaskAlwaysAvailable()
+  (Merged from trunk (4.2.0alpha1) rev. 23456)
+- Fixed bug #14719: Exclamation mark at end of URL does not work in emails (w/patch)
+  (Merged from trunk (4.2.0alpha1) rev. 23459)
+- Fixed bug #14812: multiprice templates have untranslateable strings
+  (Merged from trunk (4.2.0alpha1) rev. 23466)
+- Fixed bug #14815: Wrong function call breaks multiprice logic
+  (Merged from trunk (4.2.0alpha1) rev. 23470)
+- Fixed bug #13045: updateviewcount.php problems with url's
+  (Merged from trunk (4.2.0alpha1) rev. 23473)
+- Fixed bug #14816: Continous troubles with invalid url module (with fix)
+  (Merged from trunk (4.2.0alpha1) rev. 23476)
+- Fixed bug #12481: Allow clearing of texttoimage cache with ezcache.php cli script and setup/cache view
+  (Merged from trunk (4.2.0alpha1) rev. 23479)
+- Fixed bug #14814: XSS security issue with shop
+- Fixed bug #14593: eZ Publish weak activation token for new user
